@@ -1,0 +1,13 @@
+Date:28 Feb 2023
+----------------------
+1.HTML All type of input field form making
+2.Some Static datas in tables in HTML
+3.OOPS Properties
+4.End the angular tutorial
+md-medium Devices
+my-medium Y axis
+lg-large
+sm-small
+mx-medium x axis
+ml-medium left
+mr-medium right
